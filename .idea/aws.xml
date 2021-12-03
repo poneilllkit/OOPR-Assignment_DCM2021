@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="accountSettings">
-<<<<<<< HEAD
-    <option name="activeRegion" value="us-east-1" />
-=======
     <option name="activeProfile" value="profile:default" />
-    <option name="activeRegion" value="us-east-1" />
+    <option name="activeRegion" value="eu-west-1" />
     <option name="recentlyUsedProfiles">
       <list>
         <option value="profile:default" />
       </list>
     </option>
->>>>>>> 5b1fb66 (L00170246_Q6 terraform init)
     <option name="recentlyUsedRegions">
       <list>
-        <option value="us-east-1" />
+        <option value="eu-west-1" />
       </list>
     </option>
   </component>
