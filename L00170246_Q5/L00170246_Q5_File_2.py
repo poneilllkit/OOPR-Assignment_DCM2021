@@ -6,14 +6,7 @@
 # Version       :   1.0.0
 # Licensing     :   (C) 2021 Pierce O'Neill LYIT
 #                   Available under GNU Public License (GPL)
-# Description   :   Manipulate/Complete the following code to : 5 marks
-# 5.1. install curl,
-# 5.2. Create a directory structure Labs with subfolders lab1 and lab2
-# 5.3. From your home directory find out when files were last accessed.
-# ls -l --time=atime
-# Take screenshots of the code running on your system. Save them to a file named
-# L0012345_Q5_File_1 where L0012345 is replace by your own L number. Save the
-# script as L0012345_Q5_File_2
+# Description   :   Question 6 -Manipulate/Complete code
 #
 """
 ----------------------------------------------------

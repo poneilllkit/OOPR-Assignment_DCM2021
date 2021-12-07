@@ -6,7 +6,8 @@
 # Version       :   1.0.0
 # Licensing     :   (C) 2021 Pierce O'Neill LYIT
 #                   Available under GNU Public License (GPL)
-# Description   :   Question 4 - Create an SSH Connection to the VM
+# Description   :   Question 4 - Write a Python script to determine which ports are open and display the
+#                   information in a tidy format.
 #
 """
 ----------------------------------------------------
